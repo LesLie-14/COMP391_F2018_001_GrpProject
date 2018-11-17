@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 80
+  controlID: 95
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -92,7 +92,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
 MonoBehaviour:
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 538, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 10
+  controlID: 48
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,7 +242,7 @@ MonoBehaviour:
   - {fileID: 17}
   - {fileID: 15}
   m_Selected: 0
-  m_LastSelected: 5
+  m_LastSelected: 3
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -452,7 +452,7 @@ MonoBehaviour:
     commitBody: 
     commitMessage: 
     currentBranch: '[master]'
-    treeScroll: {x: 0, y: 0}
+    treeScroll: {x: 0, y: 560}
     treeChanges:
       assets:
         keys: []
@@ -460,10 +460,26 @@ MonoBehaviour:
       folders:
         keys:
         - HopHopRabbit
+        - HopHopRabbit\Assets
+        - HopHopRabbit\Assets\Animations
+        - HopHopRabbit\Assets\Scenes
+        - HopHopRabbit\Assets\Sprites
+        - HopHopRabbit\Library
+        - HopHopRabbit\Library\gfu
+        - HopHopRabbit\Library\gfu\cache
+        - HopHopRabbit\Library\metadata
+        - HopHopRabbit\Library\metadata\03
+        - HopHopRabbit\Library\metadata\6f
+        - HopHopRabbit\Library\metadata\8a
+        - HopHopRabbit\Library\ShaderCache
+        - HopHopRabbit\Library\ShaderCache\0
+        - HopHopRabbit\Library\ShaderCache\1
+        - HopHopRabbit\Library\ShaderCache\3
+        - HopHopRabbit\Library\ShaderCache\5
+        - HopHopRabbit\Library\ShaderCache\8
+        - HopHopRabbit\Library\ShaderCache\a
+        - HopHopRabbit\Library\ShaderCache\b
         - HopHopRabbit\Temp
-        - HopHopRabbit\Temp\_1105336082
-        - HopHopRabbit\Temp\_1105336082\left
-        - HopHopRabbit\Temp\_1105336082\left\Temp
         values:
         - path: HopHopRabbit
           label: HopHopRabbit
@@ -483,8 +499,8 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: HopHopRabbit\Temp
-          label: Temp
+        - path: HopHopRabbit\Assets
+          label: Assets
           level: 1
           isFolder: 1
           isContainer: 0
@@ -501,8 +517,8 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: HopHopRabbit\Temp\_1105336082
-          label: _1105336082
+        - path: HopHopRabbit\Assets\Animations
+          label: Animations
           level: 2
           isFolder: 1
           isContainer: 0
@@ -519,8 +535,80 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: HopHopRabbit\Temp\_1105336082\left
-          label: left
+        - path: HopHopRabbit\Assets\Scenes
+          label: Scenes
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Assets\Sprites
+          label: Sprites
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library
+          label: Library
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\gfu
+          label: gfu
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\gfu\cache
+          label: cache
           level: 3
           isFolder: 1
           isContainer: 0
@@ -537,9 +625,225 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: HopHopRabbit\Temp\_1105336082\left\Temp
+        - path: HopHopRabbit\Library\metadata
+          label: metadata
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\metadata\03
+          label: 03
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\metadata\6f
+          label: 6f
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\metadata\8a
+          label: 8a
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache
+          label: ShaderCache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\0
+          label: 0
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\1
+          label: 1
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\3
+          label: 3
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\5
+          label: 5
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\8
+          label: 8
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\a
+          label: a
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Library\ShaderCache\b
+          label: b
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: HopHopRabbit\Temp
           label: Temp
-          level: 4
+          level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -601,6 +905,906 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
+      - path: HopHopRabbit\Assets
+        label: Assets
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Assets\Animations
+        label: Animations
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+        label: rabbit_small_0.controller
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+          projectPath: Assets\Animations\rabbit_small_0.controller
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller.meta
+        label: rabbit_small_0.controller.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller.meta
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_0.controller.meta
+          projectPath: Assets\Animations\rabbit_small_0.controller.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Assets\Animations\small_rabbit.anim
+        label: small_rabbit.anim
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Animations\small_rabbit.anim
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit.anim
+          projectPath: Assets\Animations\small_rabbit.anim
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+        label: small_rabbit.anim.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+          projectPath: Assets\Animations\small_rabbit.anim.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Assets\Scenes
+        label: Scenes
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Assets\Scenes\Main.unity
+        label: Main.unity
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Scenes\Main.unity
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Scenes\Main.unity
+          projectPath: Assets\Scenes\Main.unity
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Assets\Sprites
+        label: Sprites
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Assets\Sprites\rabbit_small.png
+        label: rabbit_small.png
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Sprites\rabbit_small.png
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\rabbit_small.png
+          projectPath: Assets\Sprites\rabbit_small.png
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Assets\Sprites\rabbit_small.png.meta
+        label: rabbit_small.png.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Assets\Sprites\rabbit_small.png.meta
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\rabbit_small.png.meta
+          projectPath: Assets\Sprites\rabbit_small.png.meta
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library
+        label: Library
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\assetDatabase3
+        label: assetDatabase3
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\assetDatabase3
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\assetDatabase3
+          projectPath: Library\assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\CrashedAssetImports.txt
+        label: CrashedAssetImports.txt
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\CrashedAssetImports.txt
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\CrashedAssetImports.txt
+          projectPath: Library\CrashedAssetImports.txt
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\EditorInstance.json
+        label: EditorInstance.json
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\EditorInstance.json
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+          projectPath: Library\EditorInstance.json
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\gfu
+        label: gfu
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache
+        label: cache
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+        label: gitlocks.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
+        label: gitlog.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlog.yaml
+          projectPath: Library\gfu\cache\gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+        label: gitstatusentries.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+        label: gittrackingstatus.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gituser.yaml
+        label: gituser.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\gfu\cache\gituser.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gituser.yaml
+          projectPath: Library\gfu\cache\gituser.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+        label: repoinfo.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\metadata
+        label: metadata
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\03
+        label: 03
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+        label: 035c6d139ae96e84c8819b0205a8b0f9
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+          projectPath: Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+        label: 035c6d139ae96e84c8819b0205a8b0f9.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+          projectPath: Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\6f
+        label: 6f
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+        label: 6f512cee03a7d9041b2ac3725a3ef8f3
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+          projectPath: Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+        label: 6f512cee03a7d9041b2ac3725a3ef8f3.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+          projectPath: Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\8a
+        label: 8a
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+        label: 8a53e3f140d98ec43a3a03854b873696
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+          projectPath: Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+        label: 8a53e3f140d98ec43a3a03854b873696.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+          projectPath: Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache
+        label: ShaderCache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\0
+        label: 0
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+        label: 05d5a85b8d977b5925a3e6b10850d086.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+          projectPath: Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\1
+        label: 1
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+        label: 1656c5e1c27822320dbfbde7546c8d83.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+          projectPath: Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\3
+        label: 3
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+        label: 35673037ef67160260bc6ec8633ae51a.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+          projectPath: Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\5
+        label: 5
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+        label: 5e9d089ffb880abd3abb22651b6914d6.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+          projectPath: Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\8
+        label: 8
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+        label: 8c7e6515d7d44bcbda971cb2c24e7702.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+          projectPath: Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\a
+        label: a
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+        label: a16128f40dfc3d008d1d1a587b49d7cd.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+          projectPath: Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+        label: a92beed0086c3e4bef81d7259e2edd66.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+          projectPath: Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\b
+        label: b
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: HopHopRabbit\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+        label: b0419e7b75c949155020ba2977442e26.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+          projectPath: Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+        label: shadercompiler-UnityShaderCompiler.exe0.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          originalPath: 
+          status: 3
+          staged: 0
       - path: HopHopRabbit\Temp
         label: Temp
         level: 1
@@ -618,78 +1822,6 @@ MonoBehaviour:
           projectPath: 
           originalPath: 
           status: 0
-          staged: 0
-      - path: HopHopRabbit\Temp\_1105336082
-        label: _1105336082
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          status: 0
-          staged: 0
-      - path: HopHopRabbit\Temp\_1105336082\left
-        label: left
-        level: 3
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          status: 0
-          staged: 0
-      - path: HopHopRabbit\Temp\_1105336082\left\Temp
-        label: Temp
-        level: 4
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          status: 0
-          staged: 0
-      - path: HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-        label: UnityLockfile
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-          projectPath: Temp\_1105336082\left\Temp\UnityLockfile
-          originalPath: 
-          status: 1
           staged: 0
       - path: HopHopRabbit\Temp\UnityLockfile
         label: UnityLockfile
@@ -710,15 +1842,15 @@ MonoBehaviour:
           status: 1
           staged: 0
       selectedNode:
-        path: HopHopRabbit\Temp\_1105336082
-        label: _1105336082
-        level: 2
-        isFolder: 1
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
-        treeIsCheckable: 1
+        treeIsCheckable: 0
         checkState: 0
         isLocked: 0
         gitStatusEntry:
@@ -729,11 +1861,191 @@ MonoBehaviour:
           status: 0
           staged: 0
     gitStatusEntries:
-    - path: HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-      projectPath: Temp\_1105336082\left\Temp\UnityLockfile
+    - path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+      projectPath: Assets\Animations\rabbit_small_0.controller
       originalPath: 
       status: 1
+      staged: 0
+    - path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller.meta
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_0.controller.meta
+      projectPath: Assets\Animations\rabbit_small_0.controller.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Assets\Animations\small_rabbit.anim
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit.anim
+      projectPath: Assets\Animations\small_rabbit.anim
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+      projectPath: Assets\Animations\small_rabbit.anim.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Assets\Scenes\Main.unity
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Assets\Sprites\rabbit_small.png
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\rabbit_small.png
+      projectPath: Assets\Sprites\rabbit_small.png
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Assets\Sprites\rabbit_small.png.meta
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\rabbit_small.png.meta
+      projectPath: Assets\Sprites\rabbit_small.png.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\assetDatabase3
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\CrashedAssetImports.txt
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\EditorInstance.json
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+      projectPath: Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+      projectPath: Library\metadata\03\035c6d139ae96e84c8819b0205a8b0f9.info
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+      projectPath: Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+      projectPath: Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+      projectPath: Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+      projectPath: Library\metadata\8a\8a53e3f140d98ec43a3a03854b873696.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+      projectPath: Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+      projectPath: Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+      projectPath: Library\ShaderCache\3\35673037ef67160260bc6ec8633ae51a.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+      projectPath: Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+      projectPath: Library\ShaderCache\8\8c7e6515d7d44bcbda971cb2c24e7702.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+      projectPath: Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+      projectPath: Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+      projectPath: Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
       staged: 0
     - path: HopHopRabbit\Temp\UnityLockfile
       fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\UnityLockfile
@@ -741,15 +2053,15 @@ MonoBehaviour:
       originalPath: 
       status: 1
       staged: 0
-    changedFilesText: 2 changed files
+    changedFilesText: 32 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2018-11-17T11:09:51.614-05:00
+      updatedTimeString: 2018-11-17T11:12:21.805-05:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-11-17T11:10:46.773-05:00
+      updatedTimeString: 2018-11-17T11:41:48.320-05:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2018-11-17T11:10:46.809-05:00
+      updatedTimeString: 2018-11-17T11:12:22.558-05:00
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -757,6 +2069,54 @@ MonoBehaviour:
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+      - commitID: f55a0bca43cf596de1687ad692b7ee519215d3dd
+        mergeA: 
+        mergeB: 
+        authorName: angeLofdeath14
+        authorEmail: 43099603+angeLofdeath14@users.noreply.github.com
+        commitEmail: 43099603+angeLofdeath14@users.noreply.github.com
+        commitName: angeLofdeath14
+        summary: added files
+        description: added files
+        timeString: 2018-11-17T11:11:54.000-05:00
+        commitTimeString: 2018-11-17T11:11:54.000-05:00
+        changes:
+        - path: HopHopRabbit\Library\CurrentLayout.dwlt
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\CurrentLayout.dwlt
+          projectPath: Library\CurrentLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: HopHopRabbit\Library\EditorInstance.json
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+          projectPath: Library\EditorInstance.json
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlog.yaml
+          projectPath: Library\gfu\cache\gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
       - commitID: b1139e6c0ae886a83fc79ba97bb68e6c69aa7226
         mergeA: 
         mergeB: 
@@ -8875,6 +10235,54 @@ MonoBehaviour:
       changes: []
     detailsScroll: {x: 0, y: 0}
     logEntries:
+    - commitID: f55a0bca43cf596de1687ad692b7ee519215d3dd
+      mergeA: 
+      mergeB: 
+      authorName: angeLofdeath14
+      authorEmail: 43099603+angeLofdeath14@users.noreply.github.com
+      commitEmail: 43099603+angeLofdeath14@users.noreply.github.com
+      commitName: angeLofdeath14
+      summary: added files
+      description: added files
+      timeString: 2018-11-17T11:11:54.000-05:00
+      commitTimeString: 2018-11-17T11:11:54.000-05:00
+      changes:
+      - path: HopHopRabbit\Library\CurrentLayout.dwlt
+        fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\CurrentLayout.dwlt
+        projectPath: Library\CurrentLayout.dwlt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: HopHopRabbit\Library\EditorInstance.json
+        fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+        projectPath: Library\EditorInstance.json
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+        fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+        projectPath: Library\gfu\cache\gitlocks.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
+        fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlog.yaml
+        projectPath: Library\gfu\cache\gitlog.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+        fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+        projectPath: Library\gfu\cache\gitstatusentries.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+        fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+        projectPath: Library\gfu\cache\gittrackingstatus.yaml
+        originalPath: 
+        status: 3
+        staged: 0
     - commitID: b1139e6c0ae886a83fc79ba97bb68e6c69aa7226
       mergeA: 
       mergeB: 
@@ -17014,10 +18422,10 @@ MonoBehaviour:
           status: 0
           staged: 0
     lastLogChangedEvent:
-      updatedTimeString: 2018-11-17T11:11:03.388-05:00
+      updatedTimeString: 2018-11-17T11:12:26.062-05:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2018-11-17T11:10:46.801-05:00
+      updatedTimeString: 2018-11-17T11:12:22.581-05:00
       cacheType: 4
   settingsView:
     gitPathView:
@@ -17071,21 +18479,51 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: 1 Jan 0001, 00:00
     lastLocksChangedEvent:
-      updatedTimeString: 2018-11-17T11:10:46.809-05:00
+      updatedTimeString: 2018-11-17T11:12:22.558-05:00
       cacheType: 6
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-11-17T11:10:46.809-05:00
+      updatedTimeString: 2018-11-17T11:12:22.558-05:00
       cacheType: 6
     lastUserChangedEvent:
-      updatedTimeString: 2018-11-17T11:09:06.498-05:00
+      updatedTimeString: 2018-11-17T11:12:25.606-05:00
       cacheType: 7
     lockedFiles: []
     gitStatusEntries:
-    - path: HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
-      projectPath: Temp\_1105336082\left\Temp\UnityLockfile
+    - path: HopHopRabbit\Library\EditorInstance.json
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
       originalPath: 
       status: 1
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
       staged: 0
     - path: HopHopRabbit\Temp\UnityLockfile
       fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\UnityLockfile
@@ -17119,13 +18557,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2018-11-17T11:09:51.614-05:00
+    updatedTimeString: 2018-11-17T11:12:21.805-05:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2018-11-17T11:11:14.073-05:00
+    updatedTimeString: 2018-11-17T11:12:22.581-05:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2018-11-17T11:10:46.773-05:00
+    updatedTimeString: 2018-11-17T11:41:48.320-05:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -17274,12 +18712,29 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92.8
-    width: 906
+    width: 830
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ViewTransforms:
-    m_KeySerializationHelper: []
-    m_ValueSerializationHelper: []
+    m_KeySerializationHelper:
+    - {fileID: 1107215911348944310, guid: 035c6d139ae96e84c8819b0205a8b0f9, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 0.7225
+      e01: 0
+      e02: 0
+      e03: 39.924976
+      e10: 0
+      e11: 0.7225
+      e12: 0
+      e13: 204.03749
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
   m_PreviewAnimator: {fileID: 0}
   m_AnimatorController: {fileID: 0}
   m_BreadCrumbs: []
@@ -17352,7 +18807,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: e0fbffff00000000
+    m_ExpandedIDs: e0fbffff00000000a62e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -17458,8 +18913,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dc2c0000
-    m_LastClickedID: 11484
+    m_SelectedIDs: e02c0000
+    m_LastClickedID: 11488
     m_ExpandedIDs: 00000000d42b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -17516,21 +18971,21 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 00000000
+    m_ExpandedInstanceIDs: 00000000202c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: small_rabbit
+      m_OriginalName: small_rabbit
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -30354
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
@@ -17653,9 +19108,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.045360595, y: 0.11455219, z: -0.17523564}
+    m_Target: {x: -0.5205733, y: 0.068082035, z: -0.19335938}
     speed: 2
-    m_Value: {x: -0.045360595, y: 0.11455219, z: -0.17523564}
+    m_Value: {x: -0.5205733, y: 0.068082035, z: -0.19335938}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -17687,9 +19142,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.338263
+    m_Target: 14.063734
     speed: 2
-    m_Value: 12.338263
+    m_Value: 14.063734
   m_Ortho:
     m_Target: 1
     speed: 2
