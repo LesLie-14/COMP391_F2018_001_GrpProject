@@ -12,9 +12,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-11-17T11:09:31.193-05:00
+  lastUpdatedAtString: 2018-11-17T11:11:03.388-05:00
   initializedAtString: 2018-11-17T11:08:08.164-05:00
   log:
+  - commitID: b1139e6c0ae886a83fc79ba97bb68e6c69aa7226
+    mergeA: 
+    mergeB: 
+    authorName: angeLofdeath14
+    authorEmail: 43099603+angeLofdeath14@users.noreply.github.com
+    commitEmail: 43099603+angeLofdeath14@users.noreply.github.com
+    commitName: angeLofdeath14
+    summary: git logs
+    description: "git logs\r\n\r\nlog"
+    timeString: 2018-11-17T11:09:41.000-05:00
+    commitTimeString: 2018-11-17T11:09:41.000-05:00
+    changes:
+    - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 679f6807b1959ba327d6ff264c58f2c82af335e9
     mergeA: 
     mergeB: 

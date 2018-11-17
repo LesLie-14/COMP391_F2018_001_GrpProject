@@ -12,50 +12,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-17T11:09:31.344-05:00
+  lastUpdatedAtString: 2018-11-17T11:10:46.773-05:00
   initializedAtString: 2018-11-17T11:07:10.713-05:00
   entries:
-  - path: HopHopRabbit\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\_1105336082\left\Temp\UnityLockfile
+    projectPath: Temp\_1105336082\left\Temp\UnityLockfile
     originalPath: 
-    status: 3
-    staged: 0
-  - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HopHopRabbit\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HopHopRabbit\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: HopHopRabbit\Temp\UnityLockfile
     fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\UnityLockfile
