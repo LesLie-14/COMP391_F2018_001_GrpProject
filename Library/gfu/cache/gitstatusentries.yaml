@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-11-17T12:11:05.675-05:00
+  initializedAtString: 2018-11-17T11:50:22.784-05:00
+  entries:
+  - path: HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_0.controller
+    projectPath: Assets\Animations\rabbit_small_0.controller
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\rabbit_small_2.controller
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_2.controller
+    projectPath: Assets\Animations\rabbit_small_2.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\rabbit_small_2.controller.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\rabbit_small_2.controller.meta
+    projectPath: Assets\Animations\rabbit_small_2.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\small_rabbit.anim
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit.anim
+    projectPath: Assets\Animations\small_rabbit.anim
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit.anim.meta
+    projectPath: Assets\Animations\small_rabbit.anim.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\small_rabbit_jump.anim
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit_jump.anim
+    projectPath: Assets\Animations\small_rabbit_jump.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\small_rabbit_jump.anim.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit_jump.anim.meta
+    projectPath: Assets\Animations\small_rabbit_jump.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\small_rabbit_walk.anim
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit_walk.anim
+    projectPath: Assets\Animations\small_rabbit_walk.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Animations\small_rabbit_walk.anim.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Animations\small_rabbit_walk.anim.meta
+    projectPath: Assets\Animations\small_rabbit_walk.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Prefabs\rabbit_small.prefab
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Prefabs\rabbit_small.prefab
+    projectPath: Assets\Prefabs\rabbit_small.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Prefabs\rabbit_small.prefab.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Prefabs\rabbit_small.prefab.meta
+    projectPath: Assets\Prefabs\rabbit_small.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Prefabs\rabbit_small_jump.prefab
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Prefabs\rabbit_small_jump.prefab
+    projectPath: Assets\Prefabs\rabbit_small_jump.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Prefabs\rabbit_small_jump.prefab.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Prefabs\rabbit_small_jump.prefab.meta
+    projectPath: Assets\Prefabs\rabbit_small_jump.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Sprites\Butterfly.png.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\Butterfly.png.meta
+    projectPath: Assets\Sprites\Butterfly.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Sprites\cloud2.png.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\cloud2.png.meta
+    projectPath: Assets\Sprites\cloud2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Sprites\earth016.png.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\earth016.png.meta
+    projectPath: Assets\Sprites\earth016.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Sprites\earth018.png.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\earth018.png.meta
+    projectPath: Assets\Sprites\earth018.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Assets\Sprites\Mushroom.png.meta
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Sprites\Mushroom.png.meta
+    projectPath: Assets\Sprites\Mushroom.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\assetDatabase3
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\EditorInstance.json
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\34\34827b7146a36d946b827fd66c953433
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\34\34827b7146a36d946b827fd66c953433
+    projectPath: Library\metadata\34\34827b7146a36d946b827fd66c953433
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\34\34827b7146a36d946b827fd66c953433.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\34\34827b7146a36d946b827fd66c953433.info
+    projectPath: Library\metadata\34\34827b7146a36d946b827fd66c953433.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\35\357bd102fe8ccf94cb17cf87a0e57a16
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\35\357bd102fe8ccf94cb17cf87a0e57a16
+    projectPath: Library\metadata\35\357bd102fe8ccf94cb17cf87a0e57a16
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\35\357bd102fe8ccf94cb17cf87a0e57a16.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\35\357bd102fe8ccf94cb17cf87a0e57a16.info
+    projectPath: Library\metadata\35\357bd102fe8ccf94cb17cf87a0e57a16.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\63\6393c4981c3d8ca409b252af87112d89
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\63\6393c4981c3d8ca409b252af87112d89
+    projectPath: Library\metadata\63\6393c4981c3d8ca409b252af87112d89
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\63\6393c4981c3d8ca409b252af87112d89.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\63\6393c4981c3d8ca409b252af87112d89.info
+    projectPath: Library\metadata\63\6393c4981c3d8ca409b252af87112d89.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\69\69e5d1849ea742a4aa6ad1c9e2bbadbb
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\69\69e5d1849ea742a4aa6ad1c9e2bbadbb
+    projectPath: Library\metadata\69\69e5d1849ea742a4aa6ad1c9e2bbadbb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\69\69e5d1849ea742a4aa6ad1c9e2bbadbb.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\69\69e5d1849ea742a4aa6ad1c9e2bbadbb.info
+    projectPath: Library\metadata\69\69e5d1849ea742a4aa6ad1c9e2bbadbb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+    projectPath: Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+    projectPath: Library\metadata\6f\6f512cee03a7d9041b2ac3725a3ef8f3.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\7c\7c03099cc46222742b1adc4c602ade8c
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\7c\7c03099cc46222742b1adc4c602ade8c
+    projectPath: Library\metadata\7c\7c03099cc46222742b1adc4c602ade8c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\7c\7c03099cc46222742b1adc4c602ade8c.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\7c\7c03099cc46222742b1adc4c602ade8c.info
+    projectPath: Library\metadata\7c\7c03099cc46222742b1adc4c602ade8c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\bd\bd9582a8be90fa74e8c8c5e27ee33c89
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\bd\bd9582a8be90fa74e8c8c5e27ee33c89
+    projectPath: Library\metadata\bd\bd9582a8be90fa74e8c8c5e27ee33c89
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\bd\bd9582a8be90fa74e8c8c5e27ee33c89.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\bd\bd9582a8be90fa74e8c8c5e27ee33c89.info
+    projectPath: Library\metadata\bd\bd9582a8be90fa74e8c8c5e27ee33c89.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\c3\c35d894d46f98e34285fb224d58b08b0
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\c3\c35d894d46f98e34285fb224d58b08b0
+    projectPath: Library\metadata\c3\c35d894d46f98e34285fb224d58b08b0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\c3\c35d894d46f98e34285fb224d58b08b0.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\c3\c35d894d46f98e34285fb224d58b08b0.info
+    projectPath: Library\metadata\c3\c35d894d46f98e34285fb224d58b08b0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\c6\c6a7d1465d90c834994fe558ddce2687
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\c6\c6a7d1465d90c834994fe558ddce2687
+    projectPath: Library\metadata\c6\c6a7d1465d90c834994fe558ddce2687
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\c6\c6a7d1465d90c834994fe558ddce2687.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\c6\c6a7d1465d90c834994fe558ddce2687.info
+    projectPath: Library\metadata\c6\c6a7d1465d90c834994fe558ddce2687.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\eb\ebbaf05b935e47a4081bb2715cf671c2
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\eb\ebbaf05b935e47a4081bb2715cf671c2
+    projectPath: Library\metadata\eb\ebbaf05b935e47a4081bb2715cf671c2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\eb\ebbaf05b935e47a4081bb2715cf671c2.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\eb\ebbaf05b935e47a4081bb2715cf671c2.info
+    projectPath: Library\metadata\eb\ebbaf05b935e47a4081bb2715cf671c2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\f6\f6e096f17145c3b46a24c027eaeb5cfc
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\f6\f6e096f17145c3b46a24c027eaeb5cfc
+    projectPath: Library\metadata\f6\f6e096f17145c3b46a24c027eaeb5cfc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\metadata\f6\f6e096f17145c3b46a24c027eaeb5cfc.info
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\metadata\f6\f6e096f17145c3b46a24c027eaeb5cfc.info
+    projectPath: Library\metadata\f6\f6e096f17145c3b46a24c027eaeb5cfc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Temp\UnityLockfile
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
