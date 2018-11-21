@@ -12,6 +12,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-21T02:46:22.804-05:00
-  initializedAtString: 2018-11-21T02:01:56.982-05:00
-  entries: []
+  lastUpdatedAtString: 2018-11-21T11:31:00.783-05:00
+  initializedAtString: 2018-11-21T10:36:29.881-05:00
+  entries:
+  - path: HopHopRabbit\Assets\Scenes\Main.unity
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\assetDatabase3
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\EditorInstance.json
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Temp\UnityLockfile
+    fullPath: C:\Users\angeL\OneDrive\Documents\GitHub\COMP391_F2018_GroupProject\HopHopRabbit\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
