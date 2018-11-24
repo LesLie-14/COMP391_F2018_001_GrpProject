@@ -12,6 +12,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-25T01:22:58.695+09:00
-  initializedAtString: 2018-11-25T01:12:34.838+09:00
-  entries: []
+  lastUpdatedAtString: 2018-11-25T01:44:55.489+09:00
+  initializedAtString: 2018-11-25T01:28:47.024+09:00
+  entries:
+  - path: HopHopRabbit\Assets\Scenes\Main.unity
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\assetDatabase3
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\EditorInstance.json
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HopHopRabbit\Temp\UnityLockfile
+    fullPath: C:\Users\asus\Downloads\COMP391_F2018_001_GrpProject-master\COMP391_F2018_001_GrpProject-master\HopHopRabbit\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
