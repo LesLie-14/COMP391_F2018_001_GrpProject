@@ -12,8 +12,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-11-24T11:43:00.368-05:00
   initializedAtString: 2018-11-24T11:43:00.368-05:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-11-25T01:28:46.860+09:00
+  initializedAtString: 2018-11-25T01:28:46.860+09:00
+=======
+  lastUpdatedAtString: 2018-11-24T11:21:05.212-05:00
+  initializedAtString: 2018-11-24T11:21:05.212-05:00
+>>>>>>> a9c85551469737f29e30cc0c7c3e54b2812255e0
+>>>>>>> 9d18b0b748ec43ca4ac3173276fe4f1c348207e6
   currentGitRemote:
     name: origin
     url: https://github.com/angeLofdeath14/COMP391_F2018_001_GrpProject
@@ -24,13 +34,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: origin/master
+    tracking: 
   currentConfigBranch:
     name: master
     remote:
-      name: origin
-      url: https://github.com/angeLofdeath14/COMP391_F2018_001_GrpProject
-    trackingBranch: master
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/angeLofdeath14/COMP391_F2018_001_GrpProject
